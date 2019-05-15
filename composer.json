@@ -1,9 +1,9 @@
 {
-    "name": "it-blaster/ru-strings-bundle",
+    "name": "sergeytrifonov/ru-strings-bundle",
     "type": "symfony-bundle",
     "description": "Склонение по падежам и сопряжение с числом",
     "keywords": ["symfony", "twig", "russian"],
-    "homepage": "https://github.com/it-blaster/ru-strings-bundle",
+    "homepage": "https://github.com/SergeyTrifonov/ru-strings-bundle",
     "license": "MIT",
     "require": {
         "php": ">=5.3.2",
